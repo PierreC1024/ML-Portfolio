@@ -1,4 +1,4 @@
-package com.pierre.spark.ml.features_engineering;
+package com.pierre.spark.ml.feature_engineering;
 
 import org.apache.spark.api.java.JavaRDD;
 
